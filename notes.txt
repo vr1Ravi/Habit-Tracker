@@ -1,0 +1,1 @@
+# In serverless we cannot run socket connection as it is only active when we make req.
